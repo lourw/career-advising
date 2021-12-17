@@ -91,11 +91,11 @@ This is a generalization of industry trends, please research your target compani
 
 Type | Companies | Work Term | Start | End
 --- | --- | --- | --- | ---
-Big N                   | Meta, Google, Microsoft, Amazon     | Summer | August | April
-Canadian Banks          | TD, Scotiabank, BMO, RBC            | Summer   | January | April
-Canadian Tech           | IBM, SAP, Shopify, WealthSimple     | Summer | January | March
-Med-sized Canadian Tech | Visier, Clio, Konrad Group          | Summer | January | March
-US Tech                 | Salesforce, Tableau, Workday        | Summer | August | November
+Big N                   | Meta, Google, Microsoft, Amazon     | Summer | August (prev year)  | April
+Canadian Banks          | TD, Scotiabank, BMO, RBC            | Summer | January             | April
+Canadian Tech           | IBM, SAP, Shopify, WealthSimple     | Summer | January             | March
+Med-sized Canadian Tech | Visier, Clio, Konrad Group          | Summer | January             | March
+US Tech                 | Salesforce, Tableau, Workday        | Summer | August (prev year)  | November
 
 :exclamation: Technology roles are often hired on a rolling basis. If you wait too long, there's always the chance a position will get filled
 
