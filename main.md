@@ -19,12 +19,13 @@ It is helpful if you are able to narrow down what kind of work you would like to
 
 Software | Consulting | UX & Product | Business Tech | Data | Othr
 --- | --- | --- | --- | --- | ---
-Web Development     | Technology Risk                             | Product Manager | Business Analyst      | Data Engineer | Solutions Architect
-Mobile Development  | ERP Consulting (SAP, ORACLE)                | UX Designer     | Technical Specialist  | Data Science  | 
-Game Development    | CRM Consulting (Salesforce)                 | UX Researcher   | Technology Sales        
-Full-Stack          | Technology Strategy                         | 
-Front-end           | Cybersecurity                               |
-Back-end            | Cloud                                       |
+Web Development     | Technology Risk                             | Product Manager  | Business Analyst      | Data Engineer   | Solutions Architect
+Mobile Development  | ERP Consulting (SAP, ORACLE)                | UX Designer      | Technical Specialist  | Data Science    | Systems Administrator
+Game Development    | CRM Consulting (Salesforce)                 | UX Researcher    | Technology Sales      | Data Governance | Support Engineer
+Full-Stack          | Technology Strategy                         | Product Designer | IT Operations
+Front-End           | Cybersecurity                               |                  | Technical Writer
+Back-End            | Cloud                                       |
+DevOps Engineer     |
 
 ## Informational Resources
 :star: [levels](https://www.levels.fyi/internships/): breakdown of salary information of well-known tech companies.
