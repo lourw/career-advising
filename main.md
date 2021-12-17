@@ -23,7 +23,6 @@ This guide is a collection of useful resources and tips meant to assist you in y
 9. <a href="#faq">FAQ</a>
 
 ## Introduction 
----
 
 ### Understanding Your Scope <div id="scope"/>
 It is helpful if you are able to narrow down what kind of work you would like to do. This will help you better target specific companies or industries in your search. 
@@ -62,11 +61,13 @@ QA Automation Engineer  |
 * [example 1](https://github.com/pittcsc/Summer2022-Internships)
 * [example 2](https://github.com/ChrisDryden/Canadian-Tech-Internships-Summer-2022)
 
+* 🧠 Tip: There. Is. So. Much. Good. Stuff. On. Github. If you have a question about hiring timelines, what companies are hiring, see if you can google search a github repo where someone has already collected that information. 
+
 **Discord**: search for discord channels for prospective applicants of different companies, or communities of cs-students.  
 * ⭐ [cscareers](https://www.cscareers.dev): discord community and analytical tool that aggregates information about the hiring processes for software roles
 
-### Applications 
----
+## Applications 
+
 Job searching for software roles often require these three components
 1. resume + projects to get past initial screening stages
 2. technical know-how to demonstrate your skills
@@ -113,6 +114,7 @@ Use the following resources to aid you in passing technical interviews.
 After the resume, you may encounter different candidate assessment methods. This is a non-exhaustive list of some of the different ways evaluations can be done. Expect 1-2 of them, but definitely not all when you are applying. Heavily dependent on the company you are applying to.
 
 **Online Assessment**: Coding on a browser IDE. Often you are given 2-3 questions in a limited timeframe of 1.5-2 hours. Expect questions similar to leetcode
+* Usually done unsupervised, but companies may be able to track your keystrokes and browser usage
 * Companies: IBM, Amazon, Slack, DemonWare, Scotiabank Velocity
 
 **Systems Design**: Given a prompt, walk through how you would go about designing a product/system
@@ -132,6 +134,10 @@ After the resume, you may encounter different candidate assessment methods. This
 * "Construct an API for a movie catalogue"
 * Companies: Shopify
 
+**Personality Test/Worksplace Simulation**: Used to test for fit. Can be seemingly subjective at times. 
+* RBC's mental aptitude game (45-min)
+* Amazon's Workplace Simulation Activity + Personality Test (2-hours)
+
 **Phone Interview**: Often just a phone call with a team manager or recruiter to evaluate on fit. Expect behavourials and potentially some technicals
 
 **Conceptual Knowledge**: Dependent on the team and work you are applying for. You should have a good grasp of fundamental topics in your target domain.
@@ -146,7 +152,7 @@ QA Automation Engineer  | What is black box vs. white box testing?
 DevOps                  | What is CI/CD? 
 
 ## Tips and Other Information
----
+--
 
 ### Common Timelines for Hiring <div id="timelines"/>
 This is a generalization of industry trends.  
