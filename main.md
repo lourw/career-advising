@@ -8,9 +8,12 @@ This guide is a collection of useful resources and tips meant to assist you in y
 ## Table of Contents
 1. Scope
 2. Resources
-3. Proof of Work
-4. Coding Practice
-5. Generalized Hiring Timelines
+3. Resumes
+4. Proof of Work
+5. Coding Practice
+6. Generalized Hiring Timelines
+7. Learning Resources
+9. FAQ
 
 ## Setting a scope and target
 It is helpful if you are able to narrow down what kind of work you would like to do. This will help you better target specific companies or industries in your search. 
@@ -116,6 +119,14 @@ Med-sized Canadian Tech | Visier, Clio, Konrad Group          | Summer | January
 US Tech                 | Salesforce, Tableau, Workday        | Summer | August (prev year)  | November     | 8-months in advance
 
 :exclamation: Technology roles are often hired on a rolling basis. If you wait too long, there's always the chance a position will get filled
+
+### Learning Resources
+
+Name | Cost | Quality | Comments
+--- | --- | --- | ---
+[OSSU (Open Source University)](https://github.com/ossu/computer-science) | FREE | High | Curriculum for computer science made entirely from free resources
+[Linkedin Learning](https://www.linkedin.com/learning) | FREE for UBC Students | High | Professional videos ranging for a myriad of topics. Some may be outdated
+[Edx](https://www.edx.org) | FREE | High | Good content that you can watch and audit for free. Payment required if you want course certificates or to submit projects along the way
 
 ## FAQ
 
