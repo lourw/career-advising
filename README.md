@@ -72,7 +72,7 @@ Job searching for software roles often require these three components
 1. resume + projects to get past initial screening stages
 2. technical know-how to demonstrate your skills
 
-#### Resume Help <div id="resumes"/>
+### Resume Help <div id="resumes"/>
 * ⭐[Gayle McDowell's Resume](https://www.careercup.com/resume)
 * [cscareers](https://www.cscareers.dev): join the resume-roast channel on the discord server
 
@@ -81,7 +81,7 @@ Job searching for software roles often require these three components
   * What projects are people working on?
   * How are they communicating their experience through the resume?
 
-#### Supplementing your application <div id="projects"/>
+### Supplementing your application <div id="projects"/>
 Just a resume is not enough when you are starting out your job search. Make sure you have proof of any work or projects you've done! The following are some examples of supplementary activities/resources that could be useful
 
 **Certifications**: Azure, AWS, Cloud certifications demonstrate knowledge of material
