@@ -123,7 +123,7 @@ How many resumes do I need to send out before I get a job?
 
 Do I need cover letters?
 > Depends. 
-> For larger firms (Big N, SAP) where there are a high volume of applicants, cover letters probably won't get read
+> For larger firms (Big N, SAP) where there are a high volume of applicants, cover letters probably won't get read  
 > For smaller firms, make sure you tailor your cover letter to the job (generic cover letters actually reflect worse on you)
 
 How important are referrals?
