@@ -3,7 +3,8 @@ This guide is a collection of useful resources and tips meant to assist you in y
 
 ## Reference to this guide
 ⭐ Highly Recommended  
-⚠️ Important Note
+⚠️ Important Note  
+🧠 Tip
 
 ## Table of Contents
 #### Introduction
@@ -74,6 +75,11 @@ Job searching for software roles often require these three components
 * ⭐[Gayle McDowell's Resume](https://www.careercup.com/resume)
 * [cscareers](https://www.cscareers.dev): join the resume-roast channel on the discord server
 
+* 🧠 Tip: read through some resumes of developers before you start writing your own. Look for the following:
+  * What tools and technologies are they using?
+  * What projects are people working on?
+  * How are they communicating their experience through the resume?
+
 #### Supplementing your application <div id="projects"/>
 Just a resume is not enough when you are starting out your job search. Make sure you have proof of any work or projects you've done! The following are some examples of supplementary activities/resources that could be useful
 
@@ -84,11 +90,16 @@ Just a resume is not enough when you are starting out your job search. Make sure
 **Open Source Contributions**: be active in open source communities and see if there are ways you can contribute meaningful code to existing or new open source projects
 
 **Hackathons**: great source to get hands on experience of new technologies and actually create something tangible. 
-* ⭐ there is one hackathon out there each week, use this [link](https://mlh.io/seasons/2022/events) to start looking for some
+* ⭐ there is one hackathon out there each week, use [Major League Hacking](https://mlh.io/seasons/2022/events) to start looking for some
 
 ### Practicing your coding skills <div id="coding"/>
 Use the following resources to aid you in passing technical interviews.  
-⚠️ don't overthink the language you use. Use what you are most comfortable with (Java, C++, C#, Python, Javascript). I personally use python because it's less verbose than Java or C++
+⚠️ don't overthink the language you use. Use what you are most comfortable with (Java, C++, C#, Python, Javascript). I personally use Python because it's less verbose than Java or C++
+
+🧠 Tip: Doing these coding challenges is more than just memorizing the right answer, you should focus on also doing the following:
+* learning about the patterns you see for when to apply certain algorithms or data structures
+* after finishing a question, find ways to make it more efficient (less runtime or space complexity)
+* be able to vocalize your thoughts. You don't want to be silent when doing this in front of an interviewer
 
 [**Leetcode**](https://leetcode.com): most popular platform to test your skills and do algorithms/data structure questions
 
