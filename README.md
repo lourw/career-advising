@@ -152,7 +152,6 @@ QA Automation Engineer  | What is black box vs. white box testing?
 DevOps                  | What is CI/CD? 
 
 ## Tips and Other Information
---
 
 ### Common Timelines for Hiring <div id="timelines"/>
 This is a generalization of industry trends.  
