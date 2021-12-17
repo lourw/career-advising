@@ -55,6 +55,10 @@ Job searching for software roles often require these three components
 1. resume + projects to get past initial screening stages
 2. technical know-how to demonstrate your skills
 
+### Resume Help
+* [Gayle McDowell's Resume](https://www.careercup.com/resume)
+* [cscareers](https://www.cscareers.dev): join the resume-roast channel on the discord server
+
 ### Supplementing your application
 Just a resume is not enough when you are starting out your job search. Make sure you have proof of any work or projects you've done! The following are some examples of supplementary activities/resources that could be useful
 
@@ -94,3 +98,8 @@ Med-sized Canadian Tech | Visier, Clio, Konrad Group          | Summer | January
 US Tech                 | Salesforce, Tableau, Workday        | Summer | August | November
 
 :exclamation: Technology roles are often hired on a rolling basis. If you wait too long, there's always the chance a position will get filled
+
+## FAQ
+
+How many resumes do I need to send out before I get a job?
+> No idea, but let's just say 50 every two weeks as a rough benchmark
