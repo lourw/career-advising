@@ -72,7 +72,7 @@ Just a resume is not enough when you are starting out your job search. Make sure
 * :star: there is one hackathon out there each week, use this [link](https://mlh.io/seasons/2022/events) to start looking for some
 
 ### Practicing your coding skills
-Use the following resources to aid you in passing technical interviews. 
+Use the following resources to aid you in passing technical interviews.  
 :exclamation: don't overthink the language you use. Use what you are most comfortable with (Java, C++, C#, Python, Javascript). I personally use python because it's less verbose than Java or C++
 
 [**Leetcode**](https://leetcode.com): most popular platform to test your skills and do algorithms/data structure questions
@@ -82,6 +82,22 @@ Use the following resources to aid you in passing technical interviews.
 [**CodeWars**](https://www.codewars.com/dashboard): similar to Leetcode, more gamified
 
 [**Kaggle**](https://www.kaggle.com): more oriented for machine learning and data science
+
+### Topics you are expected to know
+* how to use version control software (Git, Github, BitBucket)
+* how to use command line/terminal
+* object oriented principles/programming
+* understanding of algorithms (sorting, searching, traversals)
+* understanding of data structures ( arrays, trees, graphs, heaps)
+
+### Topics you really should know (depending on your role)
+* using cloud platforms like AWS and Azure
+* using UNIX/linux systems
+* SQL
+* bash/powershell scripting
+* agile methodology
+* technical writing
+* design patterns
 
 ## Common Timelines for Hiring
 This is a generalization of industry trends, please research your target companies to double check their hiring trends. 
