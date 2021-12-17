@@ -72,7 +72,8 @@ Just a resume is not enough when you are starting out your job search. Make sure
 * :star: there is one hackathon out there each week, use this [link](https://mlh.io/seasons/2022/events) to start looking for some
 
 ### Practicing your coding skills
-Use the following resources to aid you in passing technical interviews
+Use the following resources to aid you in passing technical interviews. 
+:exclamation: don't overthink the language you use. Use what you are most comfortable with (Java, C++, C#, Python, Javascript). I personally use python because it's less verbose than Java or C++
 
 [**Leetcode**](https://leetcode.com): most popular platform to test your skills and do algorithms/data structure questions
 
