@@ -188,14 +188,17 @@ Name | Cost | Quality | Comments
 * object oriented principles/programming
 
 #### Topics you really should know (depending on your role)
-* using cloud platforms like AWS and Azure
-* using UNIX/linux systems
-* SQL
-* bash/powershell scripting
-* agile methodology
-* technical writing
-* design patterns
-* docker
+
+Cross-Discipline | Data Engineering | Front-End | 
+--- | --- | --- 
+Technical Writing             | Python         | CSS
+Agile Methodology             | Python Pandas  | React
+UNIX/Linux                    | Hadoop         | UX Fundamentals
+Bash/Powershell               | Spark
+SQL                            
+Cloud Platforms (AWS, Azure)
+Docker
+Design Patterns
 
 ### FAQ <div id="faq"/>
 
