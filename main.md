@@ -120,3 +120,11 @@ US Tech                 | Salesforce, Tableau, Workday        | Summer | August 
 
 How many resumes do I need to send out before I get a job?
 > No idea, but let's just say 50 every two weeks as a rough benchmark
+
+Do I need cover letters?
+> Depends. 
+> For larger firms (Big N, SAP) where there are a high volume of applicants, cover letters probably won't get read
+> For smaller firms, make sure you tailor your cover letter to the job (generic cover letters actually reflect worse on you)
+
+How important are referrals?
+> Referrals can help boost your chances of making it past the resume stage of the application process. However, once you are in the interview stage of the process, it is all up to you to make sure you do coding practice and are prepared.
