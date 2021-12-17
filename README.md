@@ -198,7 +198,6 @@ Bash/Powershell               | Spark
 SQL                            
 Cloud Platforms (AWS, Azure)
 Docker
-Design Patterns
 
 ### FAQ <div id="faq"/>
 
