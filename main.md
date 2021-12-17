@@ -106,13 +106,13 @@ This is a generalization of industry trends, please research your target compani
 - Summer work term: May - August
 - Fall work term: Sept - December
 
-Type | Companies | Work Term | Start | End
---- | --- | --- | --- | ---
-Big N                   | Meta, Google, Microsoft, Amazon     | Summer | August (prev year)  | April
-Canadian Banks          | TD, Scotiabank, BMO, RBC            | Summer | January             | April
-Canadian Tech           | IBM, SAP, Shopify, WealthSimple     | Summer | January             | March
-Med-sized Canadian Tech | Visier, Clio, Konrad Group          | Summer | January             | March
-US Tech                 | Salesforce, Tableau, Workday        | Summer | August (prev year)  | November
+Type | Companies | Work Term | Start | End | Other Info
+--- | --- | --- | --- | --- | ---
+Big N                   | Meta, Google, Microsoft, Amazon     | Summer | August (prev year)  | April        | 8-months in advance
+Canadian Banks          | TD, Scotiabank, BMO, RBC            | Summer | January             | April        | 4/8-months in advance
+Canadian Tech           | IBM, SAP, Shopify, WealthSimple     | Summer | January             | March        | 4/8-months in advance
+Med-sized Canadian Tech | Visier, Clio, Konrad Group          | Summer | January             | March        | 4-months in advance
+US Tech                 | Salesforce, Tableau, Workday        | Summer | August (prev year)  | November     | 8-months in advance
 
 :exclamation: Technology roles are often hired on a rolling basis. If you wait too long, there's always the chance a position will get filled
 
