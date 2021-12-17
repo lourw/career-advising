@@ -128,3 +128,6 @@ Do I need cover letters?
 
 How important are referrals?
 > Referrals can help boost your chances of making it past the resume stage of the application process. However, once you are in the interview stage of the process, it is all up to you to make sure you do coding practice and are prepared.
+
+What kind of coding projects should I do?
+> Depends. What are you interested in? You are not going to be able to code and finish a demo-able project unless you actually are interested in creating it.
