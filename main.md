@@ -21,7 +21,7 @@ Software | Consulting | UX & Product | Business Tech | Data | Othr
 --- | --- | --- | --- | --- | ---
 Web Development     | Technology Risk                             | Product Manager | Business Analyst      | Data Engineer | Solutions Architect
 Mobile Development  | ERP Consulting (SAP, ORACLE)                | UX Designer     | Technical Specialist  | Data Science  | 
-Game Development    | Vendor Consulting (Salesforce)  | UX Researcher   | Technology Sales        
+Game Development    | CRM Consulting (Salesforce)                 | UX Researcher   | Technology Sales        
 Full-Stack          | Technology Strategy                         | 
 Front-end           | Cybersecurity                               |
 Back-end            | Cloud                                       |
