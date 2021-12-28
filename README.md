@@ -195,6 +195,7 @@ Name | Cost | Topic | Comments
 ⭐[The Missing Semester](https://missing.csail.mit.edu/) | FREE | Many | MiT course that covers a lot of developers' basics not covered in school
 [The Odin Project](https://www.theodinproject.com/) | FREE | Web Development | Free curriculum to help you understand the fundmentals of web development
 [Computer Networking](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | FREE | Networking | Computer networking course/book to cover the basics
+[freeCodeCamp](https://www.freecodecamp.org/) | FREE | Many | Free certifications + projects and general guides to coding
 
 #### Topics you are expected to know
 * ⭐ understanding of algorithms (sorting, searching, traversals)
