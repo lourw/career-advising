@@ -29,7 +29,7 @@ It is helpful if you are able to narrow down what kind of work you would like to
 
 ⚠️ Note: this guide is currently written for software roles in mind. Please reach out or contribute for other types of positions. 
 
-Software | Consulting | UX & Product | Business Tech | Data | Othr
+Software | Consulting | UX & Product | Business Tech | Data | Other
 --- | --- | --- | --- | --- | ---
 Web Development         | Technology Risk                             | Product Manager  | Business Analyst      | Data Engineer   | Solutions Architect
 Mobile Development      | ERP Consulting (SAP, ORACLE)                | UX Designer      | Technical Specialist  | Data Science    | Systems Administrator
@@ -45,17 +45,21 @@ QA Automation Engineer  |
 * salary breakdown of companies
 * links to internship applications
 
+**Reddit**: use subreddits as FAQs of common questions. Read through what other students have experienced too!  
 ⭐ [r/csMajors](https://www.reddit.com/r/csMajors/): Collective of computer science students, good for learning about opportunities. 
-* hiring timelines
-* general inquiries of internships/new graduate opportunities
-* company hiring practices  
+ * hiring timelines
+ * general inquiries of internships/new graduate opportunities
+ * company hiring practices  
 
 [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/): More career related questions about computer science and tech roles. 
-* information about cs-related careers
+ * information about cs-related careers
 
 [r/uwaterloo](https://www.reddit.com/r/uwaterloo/comments/pkgmxh/waterlooworks_fall_2021_megathread/)
-* resume sharing
-* salary breakdown of different roles
+ * resume sharing
+ * salary breakdown of different roles
+
+[r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+ * Congregation of students and people who want advice about programming
 
 **Github**: search for github repos that contain lists of active internship postings. 
 * [example 1](https://github.com/pittcsc/Summer2022-Internships)
@@ -85,6 +89,13 @@ Job searching for software roles often require these three components
 Just a resume is not enough when you are starting out your job search. Make sure you have proof of any work or projects you've done! The following are some examples of supplementary activities/resources that could be useful
 
 **Certifications**: Azure, AWS, Cloud certifications demonstrate knowledge of material
+* [Azure](https://docs.microsoft.com/en-us/learn/certifications/)
+  * AZ900 - Azure Fundamentals (Basic)
+  * AZ204 - Developer Associate (Intermediate)
+* [AWS (Amazon Web Services)](https://aws.amazon.com/certification/?trk=ps_a134p000006gXRtAAM&trkCampaign=GLBL-FY21-TrainCert-Certification_PaidSearch&sc_channel=PS&sc_campaign=FY21-TrainCert-Certification_PaidSearch&sc_publisher=Google&sc_category=Training%20and%20Certification&sc_country=CA&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws%20certifications&sc_content=General_exact&sc_matchtype=e&sc_segment=465652894479&sc_medium=TC-P|PS-GO|Brand|Desktop|AW|Training%20and%20Certification|Certification|CA|EN|Text|xx|B2I&s_kwcid=AL!4422!3!465652894479!e!!g!!aws%20certifications&ef_id=Cj0KCQiA5aWOBhDMARIsAIXLlkeXSaKVVEKV6n7MwPfARhP-Bk7GyGAQ5HoFbYeB85NjGRF5JJnZWoEaAo_jEALw_wcB:G:s&s_kwcid=AL!4422!3!465652894479!e!!g!!aws%20certifications)
+  * AWS Cloud Practitioner (Basic)
+  * AWS Developer Associate (Intermediate)
+  * AWS Solutions Architect (Intermediate)
 
 **Personal Projects**: have a personal github account with repos of coding projects you've created
 
@@ -173,11 +184,14 @@ US Tech                 | Salesforce, Tableau, Workday        | Summer | August 
 
 ### Learning Resources <div id="learning"/>
 
-Name | Cost | Quality | Comments
+Name | Cost | Topic | Comments
 --- | --- | --- | ---
-[OSSU (Open Source University)](https://github.com/ossu/computer-science) | FREE | High | Curriculum for computer science made entirely from free resources
-[Linkedin Learning](https://www.linkedin.com/learning) | FREE for UBC Students | High | Professional videos ranging for a myriad of topics. Some may be outdated
-[Edx](https://www.edx.org) | FREE | High | Good content that you can watch and audit for free. Payment required if you want course certificates or to submit projects along the way
+⭐[OSSU (Open Source University)](https://github.com/ossu/computer-science) | FREE | Many | Curriculum for computer science made entirely from free resources
+[Linkedin Learning](https://www.linkedin.com/learning) | FREE for UBC Students | Many | Professional videos ranging for a myriad of topics. Some may be outdated
+[Edx](https://www.edx.org) | FREE | Many | Good content that you can watch and audit for free. Payment required if you want course certificates or to submit projects along the way. Highly suggest the CS50 series by Hardvard U
+⭐[The Missing Semester](https://missing.csail.mit.edu/) | FREE | Many | MiT course that covers a lot of developers' basics not covered in school
+[The Odin Project](https://www.theodinproject.com/) | FREE | Web Development | Free curriculum to help you understand the fundmentals of web development
+[Computer Networking](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | FREE | Networking | Computer networking course/book to cover the basics
 
 #### Topics you are expected to know
 * ⭐ understanding of algorithms (sorting, searching, traversals)
