@@ -113,6 +113,9 @@ Use the following resources to aid you in passing technical interviews.
 * after finishing a question, find ways to make it more efficient (less runtime or space complexity)
 * be able to vocalize your thoughts. You don't want to be silent when doing this in front of an interviewer
 
+Extra reads related to Leetcode:
+* [Redditor's two cents to leetcode](https://www.reddit.com/r/csMajors/comments/rp4bkw/how_to_leetcode_my_2_cents/?utm_source=share&utm_medium=web2x&context=3)
+
 [**Leetcode**](https://leetcode.com): most popular platform to test your skills and do algorithms/data structure questions
 
 [**Hackerrank**](https://www.hackerrank.com): similar to Leetcode
