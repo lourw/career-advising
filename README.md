@@ -39,6 +39,7 @@ Front-End               | Cybersecurity                               |         
 Back-End                | Cloud Consulting                            |
 DevOps Engineer         |
 QA Automation Engineer  |
+Quant                   |
 
 ### Informational Resources <div id="resources"/>
 ⭐ [levels](https://www.levels.fyi/internships/): breakdown of salary information of well-known tech companies.
