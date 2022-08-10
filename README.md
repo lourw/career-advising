@@ -88,6 +88,16 @@ Job searching for software roles often require these three components
   * What tools and technologies are they using?
   * What projects are people working on?
   * How are they communicating their experience through the resume?
+  
+### Making Connections
+**LinkedIn:** do not underestimate the power of LinkedIn when you are job searching. It can be a powerful tool if you know how to use it. Here are my tips on how to fully leverage LinkedIn
+  * Use the `follow` feature. You can choose to `follow` other individuals on LinkedIn. This means their posts and content are more likely to pop onto your feed. Make sure you follow the recruiters and hiring managers of the companies you are interested in. This is a great way to stay up to date with application timelines and recruiting events
+  * Networking. See someone interesting you want to chat with? You can send them a connection request or send them a message to coffee chat/ask for help. Sometimes networking this way may even end with referrals to positions that you're interested in 
+  * Building relationships. One way to build connections with people is to engage with their content. If you see a post that is interesting, feel free to leave your own opinion. Authors do notice people who engage frequently with their content, which is another way for you to build your network.
+  
+> ⚠️ If you do make a LinkedIn profile, do not do the bare minimum! It should be completely filled out and up to date! 
+  * Make sure you have filled in information about your experience, your 'about me' section, and also the various skills you have!
+  * Do not mix work experience with extracurricular experience. Being the VP of a club does not mean you have executive experience and mixing your qualifications can be detrimental (you won't be taken as seriously)
 
 ### Supplementing your application <div id="projects"/>
 Just a resume is not enough when you are starting out your job search. Make sure you have proof of any work or projects you've done! The following are some examples of supplementary activities/resources that could be useful
@@ -130,8 +140,7 @@ Extra reads related to Leetcode:
 
 [**Binary Search**](https://binarysearch.com/): similar questions to leetcode, but you can collaborate and compete with your friends
 
-**Recommendation**: use this site here as a starting ground for different topics. 
-> [Neetcode.io](https://neetcode.io/)
+> ⚠️ **Recommendation**: use this site here as a starting ground for different topics: [Neetcode.io](https://neetcode.io/)
 
 ### Interview Activities <div id="interviews"/>
 After the resume, you may encounter different candidate assessment methods. This is a non-exhaustive list of some of the different ways evaluations can be done. Expect 1-2 of them, but definitely not all when you are applying. Heavily dependent on the company you are applying to.
