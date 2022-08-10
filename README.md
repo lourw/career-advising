@@ -128,6 +128,8 @@ Extra reads related to Leetcode:
 
 [**Kaggle**](https://www.kaggle.com): more oriented for machine learning and data science
 
+[**Binary Search**](https://binarysearch.com/): similar questions to leetcode, but you can collaborate and compete with your friends
+
 **Recommendation**: use this site here as a starting ground for different topics. 
 > [Neetcode.io](https://neetcode.io/)
 
