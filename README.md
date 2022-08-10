@@ -128,8 +128,8 @@ Extra reads related to Leetcode:
 
 [**Kaggle**](https://www.kaggle.com): more oriented for machine learning and data science
 
-Recommendation: use this site here as a starting ground for different topics
-[Neetcode.io](https://neetcode.io/)
+**Recommendation**: use this site here as a starting ground for different topics. 
+> [Neetcode.io](https://neetcode.io/)
 
 ### Interview Activities <div id="interviews"/>
 After the resume, you may encounter different candidate assessment methods. This is a non-exhaustive list of some of the different ways evaluations can be done. Expect 1-2 of them, but definitely not all when you are applying. Heavily dependent on the company you are applying to.
