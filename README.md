@@ -29,17 +29,19 @@ It is helpful if you are able to narrow down what kind of work you would like to
 
 ⚠️ Note: this guide is currently written for software roles in mind. Please reach out or contribute for other types of positions. 
 
-Software | Consulting | UX & Product | Business Tech | Data | Other
+Software | Consulting* | UX & Product | Business Tech | Data | Other
 --- | --- | --- | --- | --- | ---
 Web Development         | Technology Risk                             | Product Manager  | Business Analyst      | Data Engineer   | Solutions Architect
 Mobile Development      | ERP Consulting (SAP, ORACLE)                | UX Designer      | Technical Specialist  | Data Science    | Systems Administrator
 Game Development        | CRM Consulting (Salesforce)                 | UX Researcher    | Technology Sales      | Data Governance | Support Engineer
-Full-Stack              | Technology Strategy                         | Product Designer | IT Operations
+Full-Stack              | Technology Strategy                         | Product Designer | IT Operations         |                 | Solutions Engineer
 Front-End               | Cybersecurity                               |                  | Technical Writer
 Back-End                | Cloud Consulting                            |
 DevOps Engineer         |
 QA Automation Engineer  |
 Quant                   |
+
+> * NOTE: unless specifically mentioned in the job description, assume consulting roles are more business focussed and don't involve much technical (coding) work. Exceptions do exist: consulting/engineering mixed roles with AWS and IBM. If you like coding and technical work, just look for engineer or developer positions.
 
 ### Informational Resources <div id="resources"/>
 ⭐ [levels](https://www.levels.fyi/internships/): breakdown of salary information of well-known tech companies.
