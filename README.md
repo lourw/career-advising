@@ -71,6 +71,9 @@ Quant                   |
 **Discord**: search for discord channels for prospective applicants of different companies, or communities of cs-students.  
 * ⭐ [cscareers](https://www.cscareers.dev): discord community and analytical tool that aggregates information about the hiring processes for software roles
 
+**Roadmap.sh**: Use to see all the different tools/topics that are related to different streams of software development
+* ⭐ [Roadmap](https://roadmap.sh/)
+
 ## Applications 
 
 Job searching for software roles often require these three components
@@ -124,6 +127,9 @@ Extra reads related to Leetcode:
 [**CodeWars**](https://www.codewars.com/dashboard): similar to Leetcode, more gamified
 
 [**Kaggle**](https://www.kaggle.com): more oriented for machine learning and data science
+
+Recommendation: use this site here as a starting ground for different topics
+[Neetcode.io](https://neetcode.io/)
 
 ### Interview Activities <div id="interviews"/>
 After the resume, you may encounter different candidate assessment methods. This is a non-exhaustive list of some of the different ways evaluations can be done. Expect 1-2 of them, but definitely not all when you are applying. Heavily dependent on the company you are applying to.
