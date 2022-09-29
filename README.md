@@ -255,4 +255,4 @@ What kind of coding projects should I do?
 > Depends. What are you interested in? You are not going to be able to code and finish a demo-able project unless you actually are interested in creating it.
 
 There's a question about authorization and sponsorship (Canadian citizen applying for US jobs), what do I put?
-> You are not authorized to work in the US (yet), so put NO for the authorization question. As a Canadian citizen, you don't need sponsorhip on a TN-visa so you can put NO for the sponsorship question.
+> You are not authorized to work in the US (yet), so put NO for the authorization question. As a Canadian citizen, you need sponsorhip on a visa so you can put YES for the sponsorship question.
