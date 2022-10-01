@@ -68,6 +68,9 @@ Quant                   |
 * [example 1](https://github.com/pittcsc/Summer2022-Internships)
 * [example 2](https://github.com/ChrisDryden/Canadian-Tech-Internships-Summer-2022)
 
+**⭐ AppTrack**
+This [application](https://apptrack.tech/) links to a Github repo for internships and new grad applications. It will send you an email everytime the repo is updated with new jobs. Make sure to subscribe with your email!
+
 * 🧠 Tip: There. Is. So. Much. Good. Stuff. On. Github. If you have a question about hiring timelines, what companies are hiring, see if you can google search a github repo where someone has already collected that information. 
 
 **Discord**: search for discord channels for prospective applicants of different companies, or communities of cs-students.  
@@ -255,4 +258,4 @@ What kind of coding projects should I do?
 > Depends. What are you interested in? You are not going to be able to code and finish a demo-able project unless you actually are interested in creating it.
 
 There's a question about authorization and sponsorship (Canadian citizen applying for US jobs), what do I put?
-> You are not authorized to work in the US (yet), so put NO for the authorization question. As a Canadian citizen, you need sponsorhip on a visa so you can put YES for the sponsorship question.
+> Assuming you are only a Canadian citizen, you are not authorized to work in the US (yet), so put NO for the authorization question. As a Canadian citizen, you need sponsorhip on a visa so you can put YES for the sponsorship question.
