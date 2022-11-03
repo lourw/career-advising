@@ -220,6 +220,7 @@ Name | Cost | Topic | Comments
 [Computer Networking](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | FREE | Networking | Computer networking course/book to cover the basics
 [freeCodeCamp](https://www.freecodecamp.org/) | FREE | Many | Free certifications + projects and general guides to coding
 ⭐[Teach yourself CS](https://teachyourselfcs.com/) | FREE | Many | Guide to CS resources for different topics
+[MIT Distributed Systems Course](https://pdos.csail.mit.edu/6.824/) | FREE | Distributed Systems | MIT course, nuff said 
 
 #### Topics you are expected to know
 * ⭐ understanding of algorithms (sorting, searching, traversals)
